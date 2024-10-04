@@ -1,0 +1,8 @@
+/* Importing Tailwind's base styles, which include essential resets and base CSS styles */
+@tailwind base;
+
+/* Importing Tailwind's component styles, which include pre-designed component styles */
+@tailwind components;
+
+/* Importing Tailwind's utility styles, which provide various utility classes for quick customization */
+@tailwind utilities;
